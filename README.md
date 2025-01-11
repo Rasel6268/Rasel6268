@@ -40,7 +40,7 @@ I’m a 👨‍💻Frontend Developer👨‍💻 passionate about building **inn
  
 
 - **Other Tools:**  
-  <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+ <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
