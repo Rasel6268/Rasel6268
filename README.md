@@ -24,10 +24,10 @@ I’m a 👨‍💻Frontend Developer👨‍💻 passionate about building **inn
 
 
 - **Backend:**  
-   <p align="left">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+ <p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-</p> 
+</p>
 
 - **Databases:**  
  <p align="left">
@@ -37,7 +37,7 @@ I’m a 👨‍💻Frontend Developer👨‍💻 passionate about building **inn
  
 
 - **Other Tools:**  
-  <p align="center">
+  <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
