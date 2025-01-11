@@ -1,5 +1,8 @@
 # 👨‍💻 BM RASEL HOSSIN AMELI
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Rasel6268&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 ### 👋 Hi there, RASEL HOSSIN AMELI!
 I’m a 👨‍💻Frontend Developer👨‍💻 passionate about building **innovative solutions**. I focus on both **Frontend** and **Backend** development, with a keen interest in **DevOps** practices. I'm constantly exploring new technologies and working on exciting projects. 🚀
 
