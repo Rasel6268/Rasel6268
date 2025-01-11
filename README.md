@@ -49,6 +49,27 @@ I’m a 👨‍💻Frontend Developer👨‍💻 passionate about building **inn
 
 
 ---
+## 🌐 **Connect With Me:**
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <a href="https://www.facebook.com/webDeveloperMrAmeli" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-rasel-hossein-ameli-246764222" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/webdevwithrasel/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:bmrasel626825@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="tel:+880193453573">
+    <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call" />
+  </a>
+</p>
+
+
+---
 
 ## 💻 **What I Do:**
 - 💡 Build end-to-end applications
@@ -81,12 +102,7 @@ I’m a 👨‍💻Frontend Developer👨‍💻 passionate about building **inn
 
 ---
 
-## 🌐 **Connect With Me:**
-- [Facebook](https://facebook.com/)
-- [LinkedIn](https://linkedin.com/in/)
-- [Instagram](https://instagram.com/)
-- [Twitter](https://twitter.com/)
-- [Email]()
+
 
 ---
 
