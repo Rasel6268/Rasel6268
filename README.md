@@ -26,17 +26,25 @@ I’m a 👨‍💻Frontend Developer👨‍💻 passionate about building **inn
 
 
 - **Backend:**  
-  - Node.js 🟩  
-  - Express.js ⚡  
+   <p align="center">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+</p> 
 
 - **Databases:**  
-  - MySQL 🗃️  
-  - MongoDB 🗃️  
+ <p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+ 
 
 - **Other Tools:**  
-  - Figma 🎨  
-  - VS Code 🖥️  
-  - Postman 📬  
+  <p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+ 
 
 
 ---
