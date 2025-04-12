@@ -6,9 +6,10 @@
 ### 👋 Hi there, RASEL HOSSIN AMELI!
 I’m a 👨‍💻Frontend Developer👨‍💻 passionate about building **innovative solutions**. I focus on both **Frontend** and **Backend** development, with a keen interest in **DevOps** practices. I'm constantly exploring new technologies and working on exciting projects. 🚀
 
-#### 🌱 **2024 Goals:**
+#### 🌱 **2025 Goals:**
 - 🌐Master API on Travelport
 - Enhance skills in **DevOps** and automation
+- ReactJs
 
 ---
 
