@@ -1,7 +1,13 @@
 # 👨‍💻 BM RASEL HOSSIN AMELI
 
+![Profile Banner](https://via.placeholder.com/1200x400/0d1117/ffffff?text=Full-Stack+Developer+%7C+DevOps+Enthusiast) <!-- Replace with your custom banner -->
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Rasel6268&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-008000?style=for-the-badge&logo=map&logoColor=white" alt="Location">
+  <a href="mailto:bmrasel626825@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 ### 👋 Hi there, RASEL HOSSIN AMELI!
 I’m a 👨‍💻Frontend Developer👨‍💻 passionate about building **innovative solutions**. I focus on both **Frontend** and **Backend** development, with a keen interest in **DevOps** practices. I'm constantly exploring new technologies and working on exciting projects. 🚀
