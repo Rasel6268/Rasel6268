@@ -9,13 +9,20 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-### 👋 Hi there, RASEL HOSSIN AMELI!
-I’m a 👨‍💻Frontend Developer👨‍💻 passionate about building **innovative solutions**. I focus on both **Frontend** and **Backend** development, with a keen interest in **DevOps** practices. I'm constantly exploring new technologies and working on exciting projects. 🚀
+## 🚀 About Me
 
-#### 🌱 **2025 Goals:**
-- 🌐Master API on Travelport
-- Enhance skills in **DevOps** and automation
-- ReactJs
+I'm a passionate **Full-Stack Developer** with expertise in both **Frontend and Backend** development and growing interest in **DevOps** practices. I specialize in building robust web applications with modern technologies.
+
+```javascript
+const rasel = {
+  pronouns: "He/Him",
+  code: ["JavaScript", "PHP", "Python"],
+  frameworks: ["React", "Vue", "Nuxt", "Express"],
+  databases: ["MongoDB", "MySQL", "Firebase"],
+  tools: ["Docker", "Git", "VS Code", "Figma"],
+  architecture: ["Microservices", "SPA", "REST APIs"],
+  currentFocus: "Mastering Travelport API & DevOps automation"
+}
 
 ---
 
