@@ -1,13 +1,18 @@
-# 👨‍💻 BM RASEL HOSSIN AMELI
-
- <img src="https://github.com/Rasel6268/Rasel/blob/main/Blue%20Brown%20Corporate%20Online%20Business%20Webinar%20Banner.png?raw=true" alt="BM Rasel Hossin Ameli - Full Stack Developer" hight='50%' width="100%"/>
-<p align="left">
+<div align="left">
+  <img src="https://github.com/Rasel6268/Rasel/blob/main/Blue%20Brown%20Corporate%20Online%20Business%20Webinar%20Banner.png?raw=true" alt="BM Rasel Hossin Ameli - Full Stack Developer" width="100%"/>
+  
+  <h1 align="left">👨‍💻 BM RASEL HOSSIN AMELI</h1>
+  <h3 align="left">Full Stack Developer | DevOps Enthusiast</h3>
+  <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Rasel6268&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-008000?style=for-the-badge&logo=map&logoColor=white" alt="Location">
   <a href="mailto:bmrasel626825@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+  
+</div>
+
 ## 🚀 About Me
 
 I'm a passionate **Full-Stack Developer** with expertise in both **Frontend and Backend** development and growing interest in **DevOps** practices. I specialize in building robust web applications with modern technologies.
