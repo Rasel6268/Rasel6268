@@ -1,7 +1,6 @@
 # 👨‍💻 BM RASEL HOSSIN AMELI
 
-![Profile Banner](https://via.placeholder.com/1200x400/0d1117/ffffff?text=Full-Stack+Developer+%7C+DevOps+Enthusiast) <!-- Replace with your custom banner -->
-
+ <img src="https://github.com/Rasel6268/Rasel/blob/main/Blue%20Brown%20Corporate%20Online%20Business%20Webinar%20Banner.png?raw=true" alt="BM Rasel Hossin Ameli - Full Stack Developer" hight='50%' width="100%"/>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Rasel6268&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-008000?style=for-the-badge&logo=map&logoColor=white" alt="Location">
@@ -12,19 +11,13 @@
 ## 🚀 About Me
 
 I'm a passionate **Full-Stack Developer** with expertise in both **Frontend and Backend** development and growing interest in **DevOps** practices. I specialize in building robust web applications with modern technologies.
+add this with html ### 👋 Hi there, RASEL HOSSIN AMELI! I’m a 👨‍💻Frontend Developer👨‍💻 passionate about building **innovative solutions**. I focus on both **Frontend** and **Backend** development, with a keen interest in **DevOps** practices. I'm constantly exploring new technologies and working on exciting projects. 🚀
+🌱 2025 Goals:
+🌐Master API on Travelport
+Enhance skills in DevOps and automation
+ReactJs
 
-```javascript
-const rasel = {
-  pronouns: "He/Him",
-  code: ["JavaScript", "PHP", "Python"],
-  frameworks: ["React", "Vue", "Nuxt", "Express"],
-  databases: ["MongoDB", "MySQL", "Firebase"],
-  tools: ["Docker", "Git", "VS Code", "Figma"],
-  architecture: ["Microservices", "SPA", "REST APIs"],
-  currentFocus: "Mastering Travelport API & DevOps automation"
-}
 
----
 
 ## 🔧 **Languages & Tools:**
 
@@ -119,9 +112,31 @@ const rasel = {
 
 ---
 
+## 🏆 Achievements & Metrics
 
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rasel6268&theme=radical&margin-w=15&column=7" alt="GitHub Trophies" />
+</div>
 
 ---
 
-### Fun Fact:
-**Equal is not always equal in JavaScript!** 😎
+<footer align="center">
+  <div style="margin-top: 50px; padding: 20px; background: #0d1117; border-radius: 10px;">
+    <h3>🚀 Keep Coding, Keep Innovating!</h3>
+    <p> 
+      <a href="https://github.com/Rasel6268" target="_blank">
+        <img src="https://img.shields.io/badge/Visit_My_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+      </a>
+      <a href="https://github.com/Rasel6268?tab=repositories" target="_blank">
+        <img src="https://img.shields.io/badge/My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" />
+      </a>
+    </p>
+    
+    <p>© 2024 BM RASEL HOSSIN AMELI | Made with ❤️ and JavaScript</p>
+    
+    <div style="margin-top: 15px;">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=Rasel6268.Rasel6268" alt="Visitor Count" />
+      <img src="https://img.shields.io/github/followers/Rasel6268?label=Follow&style=social" alt="GitHub Followers" />
+    </div>
+  </div>
+</footer>
