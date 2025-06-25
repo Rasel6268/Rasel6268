@@ -72,9 +72,7 @@ ReactJs
   <a href="https://www.linkedin.com/in/md-rasel-hossein-ameli-246764222" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/webdevwithrasel/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  
   <a href="mailto:bmrasel626825@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -136,12 +134,5 @@ ReactJs
         <img src="https://img.shields.io/badge/My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" />
       </a>
     </p>
-    
-    <p>© 2024 BM RASEL HOSSIN AMELI | Made with ❤️ and JavaScript</p>
-    
-    <div style="margin-top: 15px;">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=Rasel6268.Rasel6268" alt="Visitor Count" />
-      <img src="https://img.shields.io/github/followers/Rasel6268?label=Follow&style=social" alt="GitHub Followers" />
-    </div>
   </div>
 </footer>
