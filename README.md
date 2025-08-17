@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://github.com/Rasel6268/Rasel/blob/main/Blue%20Brown%20Corporate%20Online%20Business%20Webinar%20Banner.png?raw=true" alt="BM Rasel Hossin Ameli - Full Stack Developer" width="100%"/>
+  <img src="https://github.com/Rasel6268/Rasel6268/blob/main/Blue%20Brown%20Corporate%20Online%20Business%20Webinar%20Banner.png?raw=true" alt="BM Rasel Hossin Ameli - Full Stack Developer" width="100%"/>
   
   <h1 align="left">👨‍💻 BM RASEL HOSSIN AMELI</h1>
   <h3 align="left">Full Stack Developer | DevOps Enthusiast</h3>
