@@ -2,7 +2,7 @@
   <img src="https://github.com/Rasel6268/Rasel6268/blob/main/Blue%20Brown%20Corporate%20Online%20Business%20Webinar%20Banner.png?raw=true" alt="BM Rasel Hossin Ameli - Full Stack Developer" width="100%"/>
   
   <h1 align="left">👨‍💻 BM RASEL HOSSIN AMELI</h1>
-  <h3 align="left">Full Stack Developer | DevOps Enthusiast</h3>
+  <h3 align="left">Full Stack Developer | React Developer | Next.js Developer | MERN Stack Developer</h3>
   <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Rasel6268&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-008000?style=for-the-badge&logo=map&logoColor=white" alt="Location">
@@ -17,10 +17,31 @@
 
  Hi there, RASEL HOSSIN AMELI! I’m a 👨‍💻Frontend Developer passionate about building **innovative solutions**. I focus on both **Frontend** and **Backend** development, with a keen interest in **DevOps** practices. I'm constantly exploring new technologies and working on exciting projects. 🚀
  
-🌱 2025 Goals:
-🌐Master API on Travelport
-Enhance skills in DevOps and automation
-ReactJs
+My 2026 Goals
+💻 1. Master Modern Development Tools
+
+Deep dive into TypeScript
+
+Learn and use Docker for containerization
+
+Strengthen backend + frontend architecture skills
+
+🧠 2. Problem-Solving & Algorithms
+
+Solve 150 programming problems (DSA, algorithms, system design basics)
+
+Practice regularly on platforms like LeetCode, Codeforces, or HackerRank
+
+⚙️ 3. DevOps & Automation
+
+Enhance skills in DevOps workflows
+
+Learn CI/CD pipelines using GitHub Actions, GitLab CI, or Jenkins
+
+Automate deployments using Docker, Docker Compose, and basic Kubernetes
+
+Improve cloud knowledge (AWS/Azure)
+
 
 
 
