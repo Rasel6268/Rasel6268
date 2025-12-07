@@ -96,6 +96,24 @@
   </a>
 </p>
 
+timeline
+    title Learning Journey 2024-2026
+    section 2024
+        Q1 : Master React & Redux
+        Q2 : Node.js Backend Development
+        Q3 : Database Design & Optimization
+        Q4 : TypeScript & Advanced Patterns
+    section 2025
+        Q1 : DevOps Fundamentals
+        Q2 : Cloud Platforms (AWS/Azure)
+        Q3 : Microservices Architecture
+        Q4 : System Design Principles
+    section 2026
+        Q1 : Advanced Algorithms
+        Q2 : Performance Optimization
+        Q3 : Security Best Practices
+        Q4 : Leadership & Mentoring
+
 
 ---
 
