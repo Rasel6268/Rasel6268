@@ -110,7 +110,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rasel6268&show_icons=true&theme=radical)
 
 ## 🧑‍💻 **Top Languages Used:**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasel6268&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasel6268&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasel6268)
 
 ## 📈 **GitHub Streak:**
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rasel6268&theme=radical)
