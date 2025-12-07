@@ -17,31 +17,24 @@
 
  Hi there, RASEL HOSSIN AMELI! I’m a 👨‍💻Frontend Developer passionate about building **innovative solutions**. I focus on both **Frontend** and **Backend** development, with a keen interest in **DevOps** practices. I'm constantly exploring new technologies and working on exciting projects. 🚀
  
-## My 2026 Goals
+## 🎯 My 2026 Goals
 
-💻 1. Master Modern Development Tools
+### 💻 **1. Master Modern Development Tools**
+- Deep dive into **TypeScript** for type-safe development
+- Learn and use **Docker** for containerization
+- Strengthen backend + frontend architecture skills
+- Explore **Microservices** architecture
 
-Deep dive into TypeScript
+### 🧠 **2. Problem-Solving & Algorithms**
+- Solve **150+ programming problems** (DSA, algorithms, system design basics)
+- Practice regularly on platforms like **LeetCode, Codeforces, and HackerRank**
+- Participate in coding competitions
 
-Learn and use Docker for containerization
-
-Strengthen backend + frontend architecture skills
-
-🧠 2. Problem-Solving & Algorithms
-
-Solve 150 programming problems (DSA, algorithms, system design basics)
-
-Practice regularly on platforms like LeetCode, Codeforces, or HackerRank
-
-⚙️ 3. DevOps & Automation
-
-Enhance skills in DevOps workflows
-
-Learn CI/CD pipelines using GitHub Actions, GitLab CI, or Jenkins
-
-Automate deployments using Docker, Docker Compose, and basic Kubernetes
-
-Improve cloud knowledge (AWS/Azure)
+### ⚙️ **3. DevOps & Automation**
+- Enhance skills in **DevOps workflows** and best practices
+- Learn **CI/CD pipelines** using GitHub Actions, GitLab CI, or Jenkins
+- Automate deployments using **Docker, Docker Compose, and Kubernetes**
+- Improve cloud knowledge (**AWS/Azure/GCP**)
 
 
 
